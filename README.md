@@ -32,11 +32,11 @@ Para pousar com sucesso uma espaçonave, nós a enviamos ao espaço com centenas
 - Comunicando seu status aos controladores de missão na Terra
 - E iniciar as operações com segurança ao chegar à superfície
 
-Sobre a imagem: Esta ilustração mostra os eventos que ocorrem nos minutos finais da viagem de quase sete meses que o rover Perseverance da NASA faz a Marte. Crédito da imagem: NASA/JPL-Caltech | › ![Imagem completa e legenda](https://mars.nasa.gov/resources/25489/perseverance-rovers-entry-descent-and-landing-profile/)
+Sobre a imagem: Esta ilustração mostra os eventos que ocorrem nos minutos finais da viagem de quase sete meses que o rover Perseverance da NASA faz a Marte. Crédito da imagem: NASA/JPL-Caltech | › [Imagem completa e legenda](https://mars.nasa.gov/resources/25489/perseverance-rovers-entry-descent-and-landing-profile/)
 
 
 ## 2. Prepare-se
-Revise cada uma das tarefas que você precisará concluir nas etapas abaixo para pousar sua espaçonave com segurança. E obtenha mais inspiração pesquisando ![como a NASA pousa espaçonaves em Marte](https://www.jpl.nasa.gov/edu/learn/video/mars-in-a-minute-how-do-you-land-on-mars/). Em seguida, decida quais dispositivos você usará para simular sua espaçonave e seu pouso. Quais ferramentas você possui para indicar etapas bem-sucedidas ao longo do processo de pouso? Você usaria luzes em determinadas etapas? As luzes devem estar acesas ou apagadas? Você poderia usar som? Alguns dispositivos são capazes de detectar cores – talvez a cor do local de pouso em Marte? Seja tão criativo quanto quiser e personalize-o com base em suas próprias ideias, no que você tem disponível e no que você se sente confortável.
+Revise cada uma das tarefas que você precisará concluir nas etapas abaixo para pousar sua espaçonave com segurança. E obtenha mais inspiração pesquisando [como a NASA pousa espaçonaves em Marte](https://www.jpl.nasa.gov/edu/learn/video/mars-in-a-minute-how-do-you-land-on-mars/). Em seguida, decida quais dispositivos você usará para simular sua espaçonave e seu pouso. Quais ferramentas você possui para indicar etapas bem-sucedidas ao longo do processo de pouso? Você usaria luzes em determinadas etapas? As luzes devem estar acesas ou apagadas? Você poderia usar som? Alguns dispositivos são capazes de detectar cores – talvez a cor do local de pouso em Marte? Seja tão criativo quanto quiser e personalize-o com base em suas próprias ideias, no que você tem disponível e no que você se sente confortável.
 
 Observação: ao longo desta atividade, forneceremos alguns exemplos de códigos e nomes, mas os seus provavelmente variarão dependendo do que você estiver usando. Apenas lembre-se de ser consistente o tempo todo!
 
@@ -128,7 +128,7 @@ else:
 ![kwl_mars-640x350](https://github.com/IMNascimento/Code_a_Mars_Landing/assets/28989407/5b78a1b5-11fe-4ef1-8b26-89a3d7e717d0)
 
 ## 5. Ligue
-Enquanto os rovers Perseverance e Curiosity são movidos ![pelo que é conhecido como RTG](https://spaceplace.nasa.gov/what-powers-a-spacecraft/en/), outras missões a Marte utilizam energia solar, coletando luz através de painéis solares e convertendo-a em eletricidade. Assim que essas missões pousarem com segurança, elas começarão a coletar luz para energizá-las e começar a se comunicar com os cientistas na Terra.
+Enquanto os rovers Perseverance e Curiosity são movidos [pelo que é conhecido como RTG](https://spaceplace.nasa.gov/what-powers-a-spacecraft/en/), outras missões a Marte utilizam energia solar, coletando luz através de painéis solares e convertendo-a em eletricidade. Assim que essas missões pousarem com segurança, elas começarão a coletar luz para energizá-las e começar a se comunicar com os cientistas na Terra.
 
 
 ### Tarefas
@@ -231,7 +231,7 @@ if __name__ == '__main__':
 ```
 
 
-Isto é semelhante à forma como nos comunicamos com as naves espaciais através da ![Deep Space Network da NASA](https://www.nasa.gov/directorates/heo/scan/index.html), ou DSN. Os dados são convertidos em código binário (uns e zeros) por computadores e transmitidos como ondas de luz da espaçonave para as gigantescas antenas parabólicas que compõem o DSN.
+Isto é semelhante à forma como nos comunicamos com as naves espaciais através da [Deep Space Network da NASA](https://www.nasa.gov/directorates/heo/scan/index.html), ou DSN. Os dados são convertidos em código binário (uns e zeros) por computadores e transmitidos como ondas de luz da espaçonave para as gigantescas antenas parabólicas que compõem o DSN.
 
 
 ![codingedl_step7-640x350](https://github.com/IMNascimento/Code_a_Mars_Landing/assets/28989407/332997e7-3a33-475f-8a2e-0b0cc3e373a8)
@@ -251,5 +251,6 @@ Como aprendemos, devido à distância entre a Terra e Marte, o nosso código tem
 
 
 
-![Projeto Entrada, Descida e Pouso em Marte](https://mars.nasa.gov/insight/entry-descent-landing/)
-![Projeto InSight](https://mars.nasa.gov/insight/timeline/landing/entry-descent-landing/)
+[Projeto Entrada, Descida e Pouso em Marte](https://mars.nasa.gov/insight/entry-descent-landing/)
+<br>
+[Projeto InSight](https://mars.nasa.gov/insight/timeline/landing/entry-descent-landing/)
